@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Electro-75 a french user , but i can speak english
+- 🌱 I’m currently learning python and  learn to write scenario
+- 💞️ I’m looking to collaborate with c++/other developer for ai and create a 2D game engine . And also , i search a 2D graphist
+- 📫 How to reach me ... You can reach me by email and discord
+- E-mail (please use only for postulate) : elecpro.yashiro@gmail.com
+- Discord (use only for postulate) : cselectrofighter
